@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    font-family: "Bell MT";
+    color: steelblue;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    width:50%;
+    margin: 20px auto;
+
+}
+td {
+    text-align: center;
+    padding: 12px;
+    vertical-align: middle;
+    border: 1px solid #ddd;
+}
+th {
+    background-color: cornflowerblue;
+    color: white;
+    text-align: center;
+    padding: 12px;
+    vertical-align: middle;
+}
+
+tr:hover {
+    background-color: #ddd;
+}
+
+.score {
+    color: white;
+    font-weight: bold;
+    background-color: #333;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+td img.flag {
+    width: 20px;
+    height: 15px;
+    margin-right: 5px;
+    text-align: center;
+}
+
+
+
